@@ -2,7 +2,7 @@
 
 int main()
 {
-	int ma,b;
-	printf("%d\n",a+b);
+	int a,b;
+	printf("sum = %d\n",a+b);
 	return 0;
 }
